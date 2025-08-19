@@ -18,6 +18,6 @@ While inspired by RabbitMQ’s concepts, **CuyMQ** prioritizes minimalism and pe
 
 ### Install
 ```bash
-go get github.com/zhou1925/CuyMQ
+go get github.com/zhou1925/cuymq
 ```
 
